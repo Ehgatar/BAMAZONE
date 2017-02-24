@@ -1,0 +1,260 @@
+{
+    "transactions": [
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Batteries",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 9.99,
+            "TOTAL_PROFIT": 149.85
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Coffee",
+            "PURCHASED": 4,
+            "PRICE_PER_UNIT": 1.99,
+            "TOTAL_PROFIT": 7.96
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Dream Job",
+            "PURCHASED": 3,
+            "PRICE_PER_UNIT": 100.35,
+            "TOTAL_PROFIT": 301.04999999999995
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Good Sleep",
+            "PURCHASED": 4,
+            "PRICE_PER_UNIT": 55.4,
+            "TOTAL_PROFIT": 221.6
+        },
+        {
+            "TRANSACTION_NUMBER": 3,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Advanced DevTools",
+            "PURCHASED": 8,
+            "PRICE_PER_UNIT": 56.6,
+            "TOTAL_PROFIT": 452.8
+        },
+        {
+            "TRANSACTION_NUMBER": 4,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Monitor",
+            "PURCHASED": 3,
+            "PRICE_PER_UNIT": 78.86,
+            "TOTAL_PROFIT": 236.57999999999998
+        },
+        {
+            "TRANSACTION_NUMBER": 5,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 430
+        },
+        {
+            "TRANSACTION_NUMBER": 6,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Batteries",
+            "PURCHASED": 6,
+            "PRICE_PER_UNIT": 9.99,
+            "TOTAL_PROFIT": 59.94
+        },
+        {
+            "TRANSACTION_NUMBER": 7,
+            "DEPARTMENT": "Hobby",
+            "PRODUCT": "Eloquent JavaScript",
+            "PURCHASED": 4,
+            "PRICE_PER_UNIT": 10.5,
+            "TOTAL_PROFIT": 42
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Hobby",
+            "PRODUCT": "Registered Sublime 3",
+            "PURCHASED": 4,
+            "PRICE_PER_UNIT": 99.65,
+            "TOTAL_PROFIT": 398.6
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Batteries",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 9.99,
+            "TOTAL_PROFIT": 149.85
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Batteries",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 9.99,
+            "TOTAL_PROFIT": 149.85
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 1290
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "For Home",
+            "PRODUCT": "Plates",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 5,
+            "TOTAL_PROFIT": 75
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 430
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Electronics",
+            "PRODUCT": "Batteries",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 9.99,
+            "TOTAL_PROFIT": 99.9
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Good Sleep",
+            "PURCHASED": 8,
+            "PRICE_PER_UNIT": 55.4,
+            "TOTAL_PROFIT": 443.2
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 430
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Coffee",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 1.99,
+            "TOTAL_PROFIT": 19.9
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Animals",
+            "PRODUCT": "Kitties",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 60,
+            "TOTAL_PROFIT": 600
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Sense of Humor",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 50.6,
+            "TOTAL_PROFIT": 506
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Goodies",
+            "PRODUCT": "Food",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 50,
+            "TOTAL_PROFIT": 250
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Dream Job",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 100.35,
+            "TOTAL_PROFIT": 501.75
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 860
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Sense of Humor",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 50.6,
+            "TOTAL_PROFIT": 253
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "For Coding",
+            "PRODUCT": "Mouse Scroll",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 50,
+            "TOTAL_PROFIT": 500
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 2,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 172
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Necessity",
+            "PRODUCT": "Coffee",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 1.99,
+            "TOTAL_PROFIT": 19.9
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Food",
+            "PRODUCT": "Noodles",
+            "PURCHASED": 25,
+            "PRICE_PER_UNIT": 14.99,
+            "TOTAL_PROFIT": 374.75
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "Debugging",
+            "PRODUCT": "Rubber Duck",
+            "PURCHASED": 10,
+            "PRICE_PER_UNIT": 86,
+            "TOTAL_PROFIT": 860
+        },
+        {
+            "TRANSACTION_NUMBER": 2,
+            "DEPARTMENT": "Animals",
+            "PRODUCT": "Hamster",
+            "PURCHASED": 15,
+            "PRICE_PER_UNIT": 10.55,
+            "TOTAL_PROFIT": 158.25
+        },
+        {
+            "TRANSACTION_NUMBER": 1,
+            "DEPARTMENT": "CoolThings",
+            "PRODUCT": "FunTimeCoding",
+            "PURCHASED": 5,
+            "PRICE_PER_UNIT": 500,
+            "TOTAL_PROFIT": 2500
+        }
+    ]
+}
