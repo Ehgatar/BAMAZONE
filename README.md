@@ -10,6 +10,8 @@
       <li>Create a new product etc...</li>
 </ul>
 
+<h1 align="center">Bamazone Video on Youtube!</h1>
+
 
 
 [![img](http://www.titanui.com/wp-content/uploads/2013/06/05/Simple-Youtube-Play-Button-PSD-234x152.jpg)](https://www.youtube.com/watch?v=20j4_dZTc8c&feature=youtu.be "Node.js BAMAZONE")
